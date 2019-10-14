@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Some text
+=======
+Hi! I'm Bob. I'm new here.
+>>>>>>> develop
